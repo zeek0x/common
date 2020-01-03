@@ -1,4 +1,6 @@
-# common_ids
+# common
+
+Find your common id!
 
 ```bash
 $ python3 main.py zeek0x
